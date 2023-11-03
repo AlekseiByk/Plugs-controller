@@ -1,5 +1,4 @@
 #!/usr/bin/python
-from tracemalloc import start
 import tinytuya
 import time
 import threading
